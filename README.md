@@ -8,6 +8,7 @@
 - QQ：30922884
 - 主页：www.2pascal.com
 - GitHub：github.com/shirong21cn
+- 项目地址：  https://github.com/shirong21cn/sdrscaner
 
 ![界面截图](docs/screenshot.png)
 

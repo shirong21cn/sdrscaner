@@ -1,0 +1,14 @@
+# 编译产物
+*.exe
+*.dll
+*.dcu
+*.log
+build_out/
+temp/
+dcu/
+bin/
+.screenshots/
+
+# 系统文件
+Thumbs.db
+desktop.ini
